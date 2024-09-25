@@ -1,0 +1,43 @@
+/* Universal selector */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* type selector */
+
+h1 {
+    color: chocolate;
+}
+
+h2 {
+    color: darkblue;
+}
+
+/*  class selector*/
+
+li.sarapan{
+    color: darkgoldenrod;
+}
+
+/* id selector */
+
+#maksi_senin{
+    color: darkgreen;
+}
+
+/* child selector */
+
+p>b {
+    color: darkorange;
+}
+
+li>b {
+    color: darkslateblue;
+}
+
+/* decendant selector */
+
+p b {
+    color: darkorange;
+}

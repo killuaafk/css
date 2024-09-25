@@ -1,0 +1,30 @@
+body {
+    background-color: #efefef ; 
+    color: #efefef;
+}
+
+#artikel{
+    background-color: #987777;
+    padding: 20px;
+}
+
+h1{
+    background-color: #ba2c2c;
+    padding: 10px;
+}
+
+h2{
+    background-color: red;
+    padding: 10px;
+}
+
+p.paragraph1{
+    background-color: rgb(32, 39, 39);
+    padding: 10px;
+}
+
+p.paragraph2{
+    background-color: #ba2c2c;
+    padding: 10px;
+}
+ 
